@@ -3,7 +3,7 @@
 #   	rob@m0dts.co.uk 
 # 	14/10/2020
 # 
-# 
+# 	requirements: apt-get install python-pil python-xmltodict python-requests
 # 
 # 
 
