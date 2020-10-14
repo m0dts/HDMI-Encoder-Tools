@@ -1,7 +1,7 @@
 <?php
 
 //php code to control the 'brovotech' h264/265 Encoder' box
-//enavple command line:
+//example command line:
 //php-cgi encoder_control.php 'enc_ip=192.168.1.120&codec=h265&res=1280x720&fps=30&keyint=30&v_bitrate=280&sound=On&audio_input=hdmi&audio_channels=1&audio_bitrate=32000&enabled=true&pluto_ip=192.168.1.16&pluto_port=8282'
 //
 //THIS ASSUMES THE ENCODER BOX IS SET TO SINGLE CHANNEL MODE IN SYSTEM SETTINGS.
