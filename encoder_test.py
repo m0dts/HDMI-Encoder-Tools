@@ -1,7 +1,7 @@
 from encoder import encoder #include encoder.py
 
 
-enc = encoder("192.168.88.252","m0dts","xxxxx")    #setup new encoder instance
+enc = encoder("192.168.88.252","m0dts","xxxxx")    #setup new encoder instance - IP of encoder,stream name, stream key
 #enc.restartUDP()   #UDP is normally enabled by the Pluto but can need re-starting
 enc.set_streaming_source()
 enc.streaming("SD")
